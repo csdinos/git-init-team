@@ -1,1 +1,3 @@
 sudo apt-get ta panta ola
+
+kai trelainomai
